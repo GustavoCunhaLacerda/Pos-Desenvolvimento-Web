@@ -1,87 +1,76 @@
 <div align="center">
 
-![IFSULDEMINAS](https://www.ifsuldeminas.edu.br/images/logoif.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg" alt="Instituto Federal" width="80">
 
-# 🎓 Pós-Graduação Lato Sensu em Desenvolvimento Web
+# Pós-Graduação em Desenvolvimento Web
 
-**IFSULDEMINAS – Campus Passos**
-
----
-
-📚 Repositório acadêmico contendo materiais, projetos e atividades desenvolvidos durante o curso de Especialização em Desenvolvimento Web.
+**Especialização Lato Sensu**  
+IFSULDEMINAS · Campus Passos
 
 ---
 
 </div>
 
-## 🧭 Sobre o Curso
+## Sobre
 
-- **Tipo:** Pós-Graduação Lato Sensu (Especialização)
-- **Área:** Desenvolvimento Web
-- **Instituição:** Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS) – Campus Passos
-- **Aluno:** Gustavo Cunha Lacerda
+Repositório acadêmico com materiais, projetos e atividades do curso de Especialização em Desenvolvimento Web do Instituto Federal do Sul de Minas Gerais – Campus Passos.
 
-## 📂 Grade Curricular
+**Aluno:** Gustavo Cunha Lacerda  
+**Carga horária total:** 360h
 
-### 📗 Período 1 – 2026/2
+## Grade Curricular
 
-| # | Disciplina | C.H. | Professor(a) | Material |
-|---|-----------|------|--------------|----------|
-| 1 | Requisitos e Projeto de Software Baseado em Padrões | 40h | Wedson Gomes da Silveira Junior (Dr.) | [📁](./disciplinas/requisitos-projeto-software/) |
-| 2 | Plataforma de Desenvolvimento em Software Livre e Servidores Web | 60h | Juvencio Geraldo de Moura (Me.) | [📁](./disciplinas/software-livre-servidores-web/) |
-| 3 | Desenvolvimento Web Front-end | 80h | Janaina Faustino Leite (Ma.) | [📁](./disciplinas/desenvolvimento-web-frontend/) |
+### Período 1 — 2026/2
 
-### 📘 Período 2
+| Disciplina | C.H. | Professor(a) |
+|-----------|------|--------------|
+| [Requisitos e Projeto de Software Baseado em Padrões](./disciplinas/requisitos-projeto-software/) | 40h | Wedson Gomes da Silveira Junior (Dr.) |
+| [Plataforma de Desenvolvimento em Software Livre e Servidores Web](./disciplinas/software-livre-servidores-web/) | 60h | Juvencio Geraldo de Moura (Me.) |
+| [Desenvolvimento Web Front-end](./disciplinas/desenvolvimento-web-frontend/) | 80h | Janaina Faustino Leite (Ma.) |
 
-| # | Disciplina | C.H. | Professor(a) | Material |
-|---|-----------|------|--------------|----------|
-| 4 | Metodologias Ágeis de Desenvolvimento | 40h | - | [📁](./disciplinas/metodologias-ageis/) |
-| 5 | Banco de Dados Relacional e NoSQL | 60h | - | [📁](./disciplinas/banco-de-dados/) |
-| 6 | Desenvolvimento Web Back-end | 80h | - | [📁](./disciplinas/desenvolvimento-web-backend/) |
+### Período 2
 
-> **Carga horária total:** 360h
+| Disciplina | C.H. | Professor(a) |
+|-----------|------|--------------|
+| [Metodologias Ágeis de Desenvolvimento](./disciplinas/metodologias-ageis/) | 40h | — |
+| [Banco de Dados Relacional e NoSQL](./disciplinas/banco-de-dados/) | 60h | — |
+| [Desenvolvimento Web Back-end](./disciplinas/desenvolvimento-web-backend/) | 80h | — |
 
-## 🛠️ Tecnologias
+## Estrutura
+
+```
+disciplinas/
+├── requisitos-projeto-software/
+├── software-livre-servidores-web/
+├── desenvolvimento-web-frontend/
+├── metodologias-ageis/
+├── banco-de-dados/
+└── desenvolvimento-web-backend/
+projetos/
+tcc/
+```
+
+## Tecnologias
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
-## 📂 Estrutura do Repositório
-
-```
-📦 Pos-Desenvolvimento-Web
-├── 📁 disciplinas/
-│   ├── 📁 requisitos-projeto-software/
-│   ├── 📁 software-livre-servidores-web/
-│   ├── 📁 desenvolvimento-web-frontend/
-│   ├── 📁 metodologias-ageis/
-│   ├── 📁 banco-de-dados/
-│   └── 📁 desenvolvimento-web-backend/
-├── 📁 projetos/
-├── 📁 tcc/
-└── 📄 README.md
-```
-
-## 📄 Licença
-
-Este repositório é de uso acadêmico pessoal.
 
 ---
 
 <div align="center">
 
-Feito com ❤️ por **Gustavo Cunha Lacerda**
+Gustavo Cunha Lacerda · 2026
 
 </div>
